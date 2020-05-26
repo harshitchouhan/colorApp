@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/colorApp/static/css/main.561cb46c.chunk.css",
-    "main.js": "/colorApp/static/js/main.05522fed.chunk.js",
-    "main.js.map": "/colorApp/static/js/main.05522fed.chunk.js.map",
+    "main.js": "/colorApp/static/js/main.4460fe50.chunk.js",
+    "main.js.map": "/colorApp/static/js/main.4460fe50.chunk.js.map",
     "runtime-main.js": "/colorApp/static/js/runtime-main.40397a8f.js",
     "runtime-main.js.map": "/colorApp/static/js/runtime-main.40397a8f.js.map",
     "static/css/2.7095f003.chunk.css": "/colorApp/static/css/2.7095f003.chunk.css",
     "static/js/2.9740c39c.chunk.js": "/colorApp/static/js/2.9740c39c.chunk.js",
     "static/js/2.9740c39c.chunk.js.map": "/colorApp/static/js/2.9740c39c.chunk.js.map",
     "index.html": "/colorApp/index.html",
-    "precache-manifest.1216a0a751203d873d61a4a783c68b1c.js": "/colorApp/precache-manifest.1216a0a751203d873d61a4a783c68b1c.js",
+    "precache-manifest.a425fb916d171b855080bca4958ffc86.js": "/colorApp/precache-manifest.a425fb916d171b855080bca4958ffc86.js",
     "service-worker.js": "/colorApp/service-worker.js",
     "static/css/2.7095f003.chunk.css.map": "/colorApp/static/css/2.7095f003.chunk.css.map",
     "static/css/main.561cb46c.chunk.css.map": "/colorApp/static/css/main.561cb46c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.7095f003.chunk.css",
     "static/js/2.9740c39c.chunk.js",
     "static/css/main.561cb46c.chunk.css",
-    "static/js/main.05522fed.chunk.js"
+    "static/js/main.4460fe50.chunk.js"
   ]
 }
